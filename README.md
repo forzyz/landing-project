@@ -1,2 +1,2 @@
 # landing-project
-Use pre-processor SCSS, HTML, CSS and some JS.
+The project is written in pure HTML, CSS preprocessor and a little JS.
